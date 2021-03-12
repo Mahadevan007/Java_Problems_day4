@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"day4_labbook_javadocexample","c":"JavaDocExample","l":"JavaDocExample()","u":"%3Cinit%3E()"}];updateSearchResults();
